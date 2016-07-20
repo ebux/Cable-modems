@@ -9,7 +9,7 @@
 #
 # Credit: Gergely Eberhardt (@ebux25) from SEARCH-LAB Ltd. (www.search-lab.hu)
 #
-# Advisory: http://search-lab.hu/...
+# Advisory: http://www.search-lab.hu/advisories/secadv-20150720
 
 import sys
 import requests
