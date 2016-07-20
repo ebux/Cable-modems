@@ -65,13 +65,13 @@ The UPC Wi-Free communication is not separated correctly inside the device, beca
 - 2016.02.18: A proposal was sent to Liberty Global suggesting a wardriving experiment in Budapest, Hungary to measure the rate of end users who are still using the default passphrases.
 
 ## POC ##
-POC script is available to demonstrate the following problems [3]:
+POC script is available to demonstrate the following problems:
 - Authentication bypass
 - Unauthenticated backup file access
 - Backup file password disclosure
 - Code execution
 
-Video demonstration is also available [1], which presents the above problems and how these can be combined to obtain full access to the modem.
+[Video demonstration is also available](https://youtu.be/cBclw7uUuO4), which presents the above problems and how these can be combined to obtain full access to the modem.
 
 ## Recommendations ##
 Since only the ISP can update the firmware, we can recommend for users to change the WiFi passphrase.
