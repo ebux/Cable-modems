@@ -28,4 +28,4 @@ POC script is available to demonstrate the following problems:
 Since only the ISP can update the firmware, we can recommend for users to change the WiFi passphrase.
 
 ## Links ##
-[Search-lab advisory] http://www.search-lab.hu/advisories/secadv-20150720
+[Search-lab advisory](http://www.search-lab.hu/advisories/secadv-20150720)
