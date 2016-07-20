@@ -77,6 +77,6 @@ Video demonstration is also available [1], which presents the above problems and
 Since only the ISP can update the firmware, we can recommend for users to change the WiFi passphrase.
 
 ## Links ##
-[Search-lab advisory]http://www.search-lab.hu/advisories/secadv-20150720
-[2] https://youtu.be/ xxx
+[Search-lab advisory](http://www.search-lab.hu/advisories/secadv-20150720)
+[Video demonstration](https://youtu.be/cBclw7uUuO4)
 
