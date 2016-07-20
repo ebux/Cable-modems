@@ -78,5 +78,6 @@ Since only the ISP can update the firmware, we can recommend for users to change
 
 ## Links ##
 [Search-lab advisory](http://www.search-lab.hu/advisories/secadv-20150720)
+
 [Video demonstration](https://youtu.be/cBclw7uUuO4)
 
